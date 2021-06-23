@@ -1,0 +1,18 @@
+body {
+    background-color: #FFFFE0;
+}
+
+h1, h2 {
+    color: #CC0000;
+    text-align: center;
+}
+
+/* h2 {
+    color: #CC0000;
+    text-align: center;
+} */
+
+.text {
+    font-style: italic;
+}
+
